@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 詞律
-#+DATE: 2015-08-25 00:50:16.487893
-#+PROPERTY: ID KR4j0087
-#+PROPERTY: BASEEDITION WYG    
